@@ -130,8 +130,6 @@ int p4()
 {
     int choice;
     float a, b, c;
-
-
     printf("1.Check whether a given set of three numbers are lengths of an isoceles triangle or not : \n");
     printf("2.Check whether a given set of three numbers are lengths of an right angle triangle or not : \n");
     printf("3.Check whether a given set of three numbers are lengths of an equilateral triangle or not : \n");

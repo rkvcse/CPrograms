@@ -1,2 +1,2 @@
-printf(" i : %d",i);
-            // printf(" j : %d",j);
+printf("Enter power : ");
+    // scanf("%d", &p);
